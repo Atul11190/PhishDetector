@@ -44,7 +44,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Phishing Email Scanner][product-screenshot]](./images/Screenshot.png)
+[Phishing Email Scanner] 
+[product-screenshot](https://raw.githubusercontent.com/Atul11190/PhishDetector/refs/heads/main/images/Screenshot.png)
 
 **PhishDetector** is a browser extension that uses machine learning to detect phishing websites. It is a free and student project developed by **Atul Kumar** to help users stay safe online. The extension currently supports Google Chrome, and it can be extended to other browsers in the future.
 
